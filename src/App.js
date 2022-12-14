@@ -12,10 +12,10 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path='/' index element={<Home />}></Route>
+          <Route path="/IMDB-Clone" index element={<Home />}></Route>
           <Route path="movie/:id" element={<Movie />}></Route>
           <Route path="movies/:type" element={<MovieList />}></Route>
-          <Route path="/*" element={<h1>Error Page</h1>}></Route>
+          {/* <Route path="/*" element={<h1>Error Page</h1>}></Route> */}
         </Routes>
       </Router>
     </div>
