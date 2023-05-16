@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/IMDB-Clone/static/css/main.9d517a5c.css",
-    "main.js": "/IMDB-Clone/static/js/main.c9880f14.js",
+    "main.js": "/IMDB-Clone/static/js/main.538f2cb2.js",
     "static/media/Inception.jpg": "/IMDB-Clone/static/media/Inception.9ed24fed5b5bd27422a6.jpg",
     "static/media/InceptionPoster.jfif": "/IMDB-Clone/static/media/InceptionPoster.ce5cdc4a5cf4348c7710.jfif",
     "static/media/Netflix.png": "/IMDB-Clone/static/media/Netflix.36843f8b45cc6bf69d1b.png",
     "index.html": "/IMDB-Clone/index.html",
     "main.9d517a5c.css.map": "/IMDB-Clone/static/css/main.9d517a5c.css.map",
-    "main.c9880f14.js.map": "/IMDB-Clone/static/js/main.c9880f14.js.map"
+    "main.538f2cb2.js.map": "/IMDB-Clone/static/js/main.538f2cb2.js.map"
   },
   "entrypoints": [
     "static/css/main.9d517a5c.css",
-    "static/js/main.c9880f14.js"
+    "static/js/main.538f2cb2.js"
   ]
 }
