@@ -120,7 +120,7 @@ const Movie2 = () => {
         <div></div>
         <div>{currentMovieDetail ? currentMovieDetail.review4 : ""}</div>
       </div>
-      <div className="text-3xl text-center pt-10 font-bold">Production companies</div>
+      <div className="font">Production companies</div>
       <div className="movie__production">
         {currentMovieDetail &&
           currentMovieDetail.production_companies &&

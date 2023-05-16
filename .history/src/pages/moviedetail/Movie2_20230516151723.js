@@ -110,17 +110,7 @@ const Movie2 = () => {
           </a>
         )}
       </div>
-      <div className="px-52 space-y-2">
-        <div className="font-bold text-3xl text-center">Review</div>
-        <div>{currentMovieDetail ? currentMovieDetail.review1 : ""}</div>
-        <div></div>
-        <div>{currentMovieDetail ? currentMovieDetail.review2 : ""}</div>
-        <div></div>
-        <div>{currentMovieDetail ? currentMovieDetail.review3 : ""}</div>
-        <div></div>
-        <div>{currentMovieDetail ? currentMovieDetail.review4 : ""}</div>
-      </div>
-      <div className="text-3xl text-center pt-10 font-bold">Production companies</div>
+      <div className="movie__heading">Production companies</div>
       <div className="movie__production">
         {currentMovieDetail &&
           currentMovieDetail.production_companies &&
@@ -137,6 +127,16 @@ const Movie2 = () => {
               )}
             </>
           ))}
+      </div>
+      <div className="px-52 space-y-2">
+        <div className="font-bold text-3xl text-center">Review</div>
+        <div>{currentMovieDetail ? currentMovieDetail.review1 : ""}</div>
+        <div></div>
+        <div>{currentMovieDetail ? currentMovieDetail.review2 : ""}</div>
+        <div></div>
+        <div>{currentMovieDetail ? currentMovieDetail.review3 : ""}</div>
+        <div></div>
+        <div>{currentMovieDetail ? currentMovieDetail.review4 : ""}</div>
       </div>
     </div>
   );
