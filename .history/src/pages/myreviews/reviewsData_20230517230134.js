@@ -379,7 +379,7 @@ export const reviewsData = [
         },
         {
         name: "Bowery King",
-        image: "https://cdn.kpbs.org/dims4/default/2e0c4a9/2147483647/strip/true/crop/1600x985+0+19/resize/880x542!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fimg%2Fphotos%2F2017%2F02%2F10%2Fimg03.jpg"
+        image: "https://www.looper.com/img/gallery/the-untold-truth-of-the-bowery-king-from-john-wick/intro-1597250034.jpg"
         },
         {
         name: "Marquis",
@@ -402,7 +402,7 @@ export const reviewsData = [
         image: "https://ca-times.brightspotcdn.com/dims4/default/9c3b4ca/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5d%2F84%2F557439d746f485a932e54d31799f%2Fjw4-unit-210729-00318-r.jpg"
         },
         ],
-      review1: "John Wick 4 delivers an action-packed and thrilling cinematic experience that keeps viewers on the edge of their seats. With its impeccable cinematography, the film captures the intense and gritty atmosphere that has become synonymous with the John Wick series. Maintaining the legacy of the franchise, John Wick, portrayed flawlessly by Keanu Reaves, continues to be the ultimate badass. His relentless pursuit of justice and revenge showcases his unparalleled skills and determination.",
+      review1: "John Wick 4 delivers an action-packed and thrilling cinematic experience that keeps viewers on the edge of their seats. With its impeccable cinematography, the film captures the intense and gritty atmosphere that has become synonymous with the John Wick series. Maintaining the legacy of the franchise, John Wick, portrayed flawlessly by [Actor', continues to be the ultimate badass. His relentless pursuit of justice and revenge showcases his unparalleled skills and determination.",
       review2: "The ending of John Wick 4 is nothing short of spectacular, leaving audiences in awe and eliciting applause and screams from the theater. It beautifully sets the stage for what's to come and leaves viewers eagerly anticipating the next installment. Overall, John Wick 4 lives up to its predecessors, delivering an adrenaline-fueled ride filled with breathtaking action, a captivating storyline, and memorable characters. It's a must-watch for fans of the series and lovers of action cinema alike.",
       charac: "About the Characters",
       review3: "Alongside John Wick, characters like Bowery King and Winston prove to be true friends, adding depth and camaraderie to the narrative. Their unwavering loyalty and support elevate the film's emotional resonance.",

@@ -94,11 +94,11 @@
     width: 75%;
 }
 
-/* .movie__links:hover {
+.movie__links:hover {
     transform: scale(1.05);
     opacity: 0.9;
     transition: transform 700ms ease-in-out, opacity 700ms ease-in-out;
-} */
+}
 
 
 .movie__heading {
@@ -121,21 +121,6 @@
     background-color:rgb(255, 0, 0);
     
 }
-
-.movie__homeButton:hover {
-    /* transform: scale(1.10); */
-    /* opacity: 0.9; */
-    transition: transform ease-in-out, 400ms ease-in-out;
-    color:white;
-}
-
-.movie__imdbButton:hover {
-    /* transform: scale(1.10); */
-    /* opacity: 0.9; */
-    transition: transform ease-in-out, 400ms ease-in-out;
-    color:white;
-}
-
 
 .movie__imdbButton {
     background-color:#f3ce13;

@@ -139,7 +139,7 @@ const Movie2 = () => {
               currentMovieDetail.characters.map((character) => (
                 <>
                   {character.name && (
-                    <span className=" hover:text-cyan-300 hover:shadow-cyan-500 hover:z-50 bg-black shadow-lg hover:transform hover:ease-in-out hover:scale-110 duration-700 hover:opacity-0.8 hover:box-shadow-rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; ">
+                    <span className=" hover:text-cyan-300 hover:shadow-cyan-500 hover:z-50 bg- shadow-lg hover:transform hover:ease-in-out hover:scale-110 duration-700 hover:opacity-0.8 hover:box-shadow-rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; ">
                       <img className="w-80 h-70 rounded-md" src={character.image} />
                       <span className="pt-2 text-center flex justify-center bg-black hover:z-50">{character.name}</span>
                     </span>

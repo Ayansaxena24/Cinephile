@@ -8,7 +8,7 @@ export default function MyReviews() {
       <div className="flex justify-center">
         <p className="text-center font-bold text-3xl">My Reviews</p>
       </div>
-      <div className="grid grid-cols-5 px-60 mt-4">
+      <div className=>
         {reviewsData.map((reviews) => (
           <Cards2 key={reviews.id} reviews={reviews} />
         ))}

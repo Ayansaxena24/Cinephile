@@ -123,17 +123,16 @@
 }
 
 .movie__homeButton:hover {
-    /* transform: scale(1.10); */
+    transform: scale(1.10);
     /* opacity: 0.9; */
     transition: transform ease-in-out, 400ms ease-in-out;
-    color:white;
 }
 
 .movie__imdbButton:hover {
-    /* transform: scale(1.10); */
+    transform: scale(1.10);
     /* opacity: 0.9; */
     transition: transform ease-in-out, 400ms ease-in-out;
-    color:white;
+    color:aliceblue;
 }
 
 

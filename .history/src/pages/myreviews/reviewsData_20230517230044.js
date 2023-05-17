@@ -379,7 +379,7 @@ export const reviewsData = [
         },
         {
         name: "Bowery King",
-        image: "https://cdn.kpbs.org/dims4/default/2e0c4a9/2147483647/strip/true/crop/1600x985+0+19/resize/880x542!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fimg%2Fphotos%2F2017%2F02%2F10%2Fimg03.jpg"
+        image: "https://johnwick.movie/assets/img/film/john-wick-4/gallery/15.jpg"
         },
         {
         name: "Marquis",
@@ -402,14 +402,14 @@ export const reviewsData = [
         image: "https://ca-times.brightspotcdn.com/dims4/default/9c3b4ca/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5d%2F84%2F557439d746f485a932e54d31799f%2Fjw4-unit-210729-00318-r.jpg"
         },
         ],
-      review1: "John Wick 4 delivers an action-packed and thrilling cinematic experience that keeps viewers on the edge of their seats. With its impeccable cinematography, the film captures the intense and gritty atmosphere that has become synonymous with the John Wick series. Maintaining the legacy of the franchise, John Wick, portrayed flawlessly by Keanu Reaves, continues to be the ultimate badass. His relentless pursuit of justice and revenge showcases his unparalleled skills and determination.",
+      review1: "John Wick 4 delivers an action-packed and thrilling cinematic experience that keeps viewers on the edge of their seats. With its impeccable cinematography, the film captures the intense and gritty atmosphere that has become synonymous with the John Wick series. Maintaining the legacy of the franchise, John Wick, portrayed flawlessly by [Actor's Name], continues to be the ultimate badass. His relentless pursuit of justice and revenge showcases his unparalleled skills and determination.",
       review2: "The ending of John Wick 4 is nothing short of spectacular, leaving audiences in awe and eliciting applause and screams from the theater. It beautifully sets the stage for what's to come and leaves viewers eagerly anticipating the next installment. Overall, John Wick 4 lives up to its predecessors, delivering an adrenaline-fueled ride filled with breathtaking action, a captivating storyline, and memorable characters. It's a must-watch for fans of the series and lovers of action cinema alike.",
       charac: "About the Characters",
       review3: "Alongside John Wick, characters like Bowery King and Winston prove to be true friends, adding depth and camaraderie to the narrative. Their unwavering loyalty and support elevate the film's emotional resonance.",
-      review4: "Caine, portrayed by Donnie Yen, emerges as an intriguing character with a twist. His presence adds a layer of complexity to the story, making him both captivating and enigmatic. Mia, seeking revenge from Caine, brings her own personal vendetta, adding another dimension to the film's tension.",
+      review4: "Caine, portrayed by [Actor's Name], emerges as an intriguing character with a twist. His presence adds a layer of complexity to the story, making him both captivating and enigmatic. Mia, seeking revenge from Caine, brings her own personal vendetta, adding another dimension to the film's tension.",
       review5: "Shimazu, a true friend of John Wick, showcases unwavering loyalty and selflessness by aiding him, despite knowing the inevitable sacrifice he must make. His character serves as a testament to the bond between comrades in this dangerous world.",
-      review6: "Charon, may he rest in peace, leaves a lasting impact with his memorable portrayal. His character contributes to the depth of the John Wick universe and his loss is felt deeply.",
-      review7: "Marquis, with hierarchical powers and an egoistic demeanor, adds an additional layer of complexity to the story. His character's presence brings forth intriguing dynamics and power struggles.",
+      review6: "",
+      review7: "",
       overview: "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
     }
 

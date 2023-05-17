@@ -379,7 +379,7 @@ export const reviewsData = [
         },
         {
         name: "Bowery King",
-        image: "https://cdn.kpbs.org/dims4/default/2e0c4a9/2147483647/strip/true/crop/1600x985+0+19/resize/880x542!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fimg%2Fphotos%2F2017%2F02%2F10%2Fimg03.jpg"
+        image: "https://johnwick.movie/assets/img/film/john-wick-4/gallery/15.jpg"
         },
         {
         name: "Marquis",
