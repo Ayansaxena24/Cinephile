@@ -23,7 +23,7 @@ const Home = () => {
             <Carousel
                 showThumbs={false}
                 autoFocus={true}
-                transitionTime={1000}
+                transitionTime={300}
                 infiniteLoop={true}
                 showStatus={false}
             >

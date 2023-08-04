@@ -251,7 +251,7 @@ export const reviewsData = [
       title: "The Batman",
       poster_path: "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UY2048_.jpg%201382w",
       rating: 7.8,
-      backdrop_path: "https://deadline.com/wp-content/uploads/2020/08/batman-e1597940464165.jpg?w=681&h=383&crop=1",
+      backdrop_path: "https://rare-gallery.com/mocahbig/1376847-the-batman-2022-movie-4k-pc-wallpaper.jpg",
       description: "The Batman is an upcoming superhero film that follows the early years of Bruce Wayne as he becomes Gotham City's Dark Knight. Directed by Matt Reeves, the film delves into the detective side of Batman's character, showcasing his skills as he unravels a series of crimes plaguing the city. With a darker and grittier tone, The Batman promises to offer a fresh and compelling take on the iconic superhero.",
       original_title: "The Batman",
       tagline: "",
