@@ -26,13 +26,13 @@
   },
   "eslintConfig": {
     "extends": [
+      "defaults",
       "react-app",
       "react-app/jest"
     ]
   },
   "browserslist": {
     "production": [
-      "defaults",
       "not dead",
       "not op_mini all"
     ],
